@@ -13,6 +13,8 @@ def run():
     Run the crew.
     """
     inputs = {
+        'debater1': 'Sarah Johnson',
+        'debater2': 'Michael Chen',
         'motion': 'One should always rent a house for whole life instead of buying a house. The cost of renting a house is less than the cost of buying a house.',
     }
     

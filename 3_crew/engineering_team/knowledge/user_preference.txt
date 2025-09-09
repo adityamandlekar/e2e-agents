@@ -1,4 +1,5 @@
-User name is John Doe.
-User is an AI Engineer.
+User name is Aditya Mandlekar.
+User is an AI Engineer | Technial Program Manager | Senior Product Manger| Senior Quality Engineering Consultant.
 User is interested in AI Agents.
-User is based in San Francisco, California.
+User is based in Chantilly, Virginia.
+Linkedln - https://github.com/adityamandlekar/e2e-agents
